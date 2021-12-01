@@ -48,3 +48,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashchavan&" alt="shreyashchavan" /></p>
+
+![Bottom fo Shreyash profile](https://github.com/shreyashchavan/shreyashchavan/blob/main/bottom_header_for_Shreyash.svg)
+<br>
+</p>
