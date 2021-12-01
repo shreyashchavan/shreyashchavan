@@ -1,4 +1,6 @@
-![header-programmer-image](https://github.com/shreyashchavan/shreyashchavan/blob/main/giphy.webp)
+<p align="center">
+<img src="giphy.webp" alt="animated header" />
+</p>
 <h1 align="center">Hi 👋, I'm Shreyash Chavan</h1>
 <h3 align="right">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/shreyash-d-chavan">
