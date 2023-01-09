@@ -13,13 +13,13 @@
 <!--<a href="">
   <img align="right" alt="Shreyash Chavan - Codechef" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
 </a>-->
-<a href="https://instagram.com/">
+<a href="https://instagram.com/its.shreyash_c/">
   <img align="right" alt="Shreyash Chavan - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<a href="https://twitter.com/shreyas79981351">
+<a href="https://twitter.com/shreyhacks/">
   <img align="right" alt="Shreyash Chavan - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
-<a href="https://facebook.com/">
+<a href="https://www.facebook.com/shreyash.chavan.549">
   <img align="right" alt="Shreyash Chavan - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <br/>
