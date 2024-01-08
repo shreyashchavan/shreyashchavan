@@ -30,9 +30,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashchavan&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashchavan" /> </p>
 
 
-- 🌱 I’m currently learning **Django, Java, C++**
+- 🌱 I’m currently learning **ASP.NET, DevOps, Worker Services**
 
-- 💬 Ask me about **C, C++, Flask, Django**
+- 💼 I'm currently working in **Siemens R&D (INDIA)**
+
+- 💬 Ask me about **C, C++, C#, .NET, Flask, Django, SEO, SEM**
 
 - 📫 How to reach me **Shreyashchavan77@gmail.com**
 
